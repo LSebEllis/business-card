@@ -19,7 +19,7 @@ body {
     margin: 0 auto;
     padding: 20px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     text-align: center;
     background: #e63946;
     color: #2b2839;
